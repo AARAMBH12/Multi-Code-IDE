@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MulticodeIDE
 
 A full-stack code editor platform with React/Vite frontend, Express/MongoDB backend, and local execution support for code projects.
