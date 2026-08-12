@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  piston:
+    image: ghcr.io/engineer-man/piston:latest
+    container_name: piston
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
+    volumes:
+      - ./piston-data:/data
+    environment:
+      # Optional: set PISTON_LANGUAGE_PACKS or other piston env vars here
+      # Example: PISTON_HOST=0.0.0.0
+      - PISTON_HOST=0.0.0.0
+
+# Notes:
+# - This spins up a Piston server on port 8080 (host -> container).
+# - The execute endpoint will be available at http://localhost:8080/api/v2/execute
+# - Data is persisted in ./piston-data
+# - The image may download runtime containers on first use; allow it some time.
