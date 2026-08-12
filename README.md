@@ -1,3 +1,13 @@
+ScreenShots->
+<img width="941" height="412" alt="image" src="https://github.com/user-attachments/assets/261680c0-6cb5-4568-b917-b8892622a0b8" />
+<img width="928" height="419" alt="image" src="https://github.com/user-attachments/assets/b5fc9dc5-e614-4c44-82da-3d46c99f74cb" />
+<img width="960" height="417" alt="image" src="https://github.com/user-attachments/assets/8895c657-6ecc-43dc-89d5-f677a4ab81e6" />
+<img width="934" height="413" alt="image" src="https://github.com/user-attachments/assets/72f2ebce-fb5a-4579-a02f-41cfbcd91e1c" />
+<img width="951" height="409" alt="image" src="https://github.com/user-attachments/assets/5657b1a8-c78a-40f6-8578-e83174fc92b3" />
+
+
+
+
 
 # MulticodeIDE
 
